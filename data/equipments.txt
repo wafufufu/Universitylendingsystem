@@ -1,0 +1,10 @@
+E6215|VR Headset|Borrowed|2025-04-09|Brand New  
+E5502|Arduino piston|Available|2025-04-09|Brand New
+E9999|Thermal Camera|Borrowed|2025-04-08|Good
+E1023|Raspberry Pi 4|Available|2025-03-22|Good  
+E4782|Soldering Station|Borrowed|2025-04-05|Brand New  
+E2045|Oscilloscope|Borrowed|2025-04-07|Needs Maintenance  
+E3100|Laser Cutter|Available|2025-02-11|Brand New  
+E001|Arduino Kit|Available|2022-03-15|Good
+E5801|Robotic chip set|Available|2025-04-09|Needs Maintenance
+E002|3D Printer|Available|2021-07-09|Good

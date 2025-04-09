@@ -1,0 +1,5 @@
+P001|John Smith|1985-06-15|john.smith@university.edu|STF001|IT Support
+P002|Emily Davis|1990-09-22|emily.davis@university.edu|STF002|Library Services
+P003|Michael Brown|1982-03-10|michael.brown@university.edu|STF003|Facilities
+P004|Sarah Wilson|1988-12-01|sarah.wilson@university.edu|STF004|Admissions
+P005|David Clark|1979-07-08|david.clark@university.edu|STF005|HR Department

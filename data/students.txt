@@ -1,0 +1,10 @@
+S001|Alice Johnson|2000-01-15|alice@example.com|STU1001
+S002|Bob Smith|1999-06-23|bob@example.com|STU1002
+S003|Charlie Nguyen|2001-09-12|charlie.nguyen@example.com|STU1003  
+S004|Diana Lee|2000-11-03|diana.lee@example.com|STU1004  
+S005|Ethan Kim|2002-04-28|ethan.kim@example.com|STU1005  
+S006|Fiona Tran|1998-12-17|fiona.tran@example.com|STU1006  
+S007|George Alvarez|2001-07-19|george.alvarez@example.com|STU1007  
+S008|Hannah Patel|1999-03-10|hannah.patel@example.com|STU1008  
+S009|Isaac Chen|2000-05-06|isaac.chen@example.com|STU1009  
+S010|Jasmine Lopez|2002-10-22|jasmine.lopez@example.com|STU1010  

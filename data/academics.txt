@@ -1,0 +1,1 @@
+A001|Dr. Jane White|1975-11-01|jwhite@univ.edu|STA2001|Computer Science
